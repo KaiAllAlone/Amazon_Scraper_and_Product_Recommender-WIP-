@@ -1,0 +1,210 @@
+Name: 
+Description: A powerful smartphone with a long-lasting battery and crisp display.
+Price: ₹12,999
+Category: Electronics > Mobiles
+Sizes: S, M, L, XL
+Bestseller: Yes
+---
+Name: 
+Description: Sleek design with AMOLED display and Snapdragon processor.
+Price: ₹14,999
+Category: Electronics > Mobiles
+Sizes: S, M, L, XL
+Bestseller: Yes
+---
+Name: 
+Description: Smooth performance with 5G connectivity and fast charging.
+Price: ₹16,999
+Category: Electronics > Mobiles
+Sizes: S, M, L, XL
+Bestseller: Yes
+---
+Name: 
+Description: Affordable smartphone with a large screen and great battery life.
+Price: ₹10,999
+Category: Electronics > Mobiles
+Sizes: S, M, L, XL
+Bestseller: Yes
+---
+Name: 
+Description: Stock Android experience with clean UI and good camera.
+Price: ₹17,499
+Category: Electronics > Mobiles
+Sizes: S, M, L, XL
+Bestseller: Yes
+---
+Name: 
+Description: Made in India 5G phone with glass back and decent specs.
+Price: ₹11,999
+Category: Electronics > Mobiles
+Sizes: S, M, L, XL
+Bestseller: Yes
+---
+Name: 
+Description: Powerful chipset with a futuristic design.
+Price: ₹13,999
+Category: Electronics > Mobiles
+Sizes: S, M, L, XL
+Bestseller: Yes
+---
+Name: 
+Description: Camera-centric device with high refresh rate display.
+Price: ₹18,999
+Category: Electronics > Mobiles
+Sizes: S, M, L, XL
+Bestseller: Yes
+---
+Name: 
+Description: Gaming-focused phone with long battery and stereo speakers.
+Price: ₹15,999
+Category: Electronics > Mobiles
+Sizes: S, M, L, XL
+Bestseller: Yes
+---
+Name: 
+Description: Budget phone with Samsung’s reliability.
+Price: ₹8,499
+Category: Electronics > Mobiles
+Sizes: S, M, L, XL
+Bestseller: Yes
+---
+Name: 
+Description: Men Solid Round Neck Cotton T-Shirt
+Price: ₹599
+Category: Fashion > Men > T-Shirts
+Sizes: S, M, L, XL
+Bestseller: Yes
+---
+Name: 
+Description: Striped Polo Collar Pure Cotton T-Shirt
+Price: ₹1,199
+Category: Fashion > Men > T-Shirts
+Sizes: S, M, L, XL
+Bestseller: Yes
+---
+Name: 
+Description: Graphic Print Cotton T-Shirt
+Price: ₹499
+Category: Fashion > Men > T-Shirts
+Sizes: S, M, L, XL
+Bestseller: Yes
+---
+Name: 
+Description: Printed Round Neck T-Shirt
+Price: ₹1,299
+Category: Fashion > Men > T-Shirts
+Sizes: S, M, L, XL
+Bestseller: Yes
+---
+Name: 
+Description: Oversized Fit Cotton T-Shirt
+Price: ₹799
+Category: Fashion > Men > T-Shirts
+Sizes: S, M, L, XL
+Bestseller: Yes
+---
+Name: 
+Description: Colorblocked Slim Fit T-Shirt
+Price: ₹999
+Category: Fashion > Men > T-Shirts
+Sizes: S, M, L, XL
+Bestseller: Yes
+---
+Name: 
+Description: Men’s Basic Fit T-Shirt
+Price: ₹899
+Category: Fashion > Men > T-Shirts
+Sizes: S, M, L, XL
+Bestseller: Yes
+---
+Name: 
+Description: Performance DryCELL T-Shirt
+Price: ₹1,099
+Category: Fashion > Men > T-Shirts
+Sizes: S, M, L, XL
+Bestseller: Yes
+---
+Name: 
+Description: Men Dri-FIT Sports T-Shirt
+Price: ₹1,599
+Category: Fashion > Men > T-Shirts
+Sizes: S, M, L, XL
+Bestseller: Yes
+---
+Name: 
+Description: Badge of Sport Cotton Tee
+Price: ₹1,299
+Category: Fashion > Men > T-Shirts
+Sizes: S, M, L, XL
+Bestseller: Yes
+---
+Name: 
+Description: Women Fit and Flare Pink Dress
+Price: ₹749
+Category: Fashion > Women > Dresses
+Sizes: S, M, L, XL
+Bestseller: Yes
+---
+Name: 
+Description: Bodycon Mini Dress with Ruching
+Price: ₹899
+Category: Fashion > Women > Dresses
+Sizes: S, M, L, XL
+Bestseller: Yes
+---
+Name: 
+Description: Women Black Solid Shift Dress
+Price: ₹1,499
+Category: Fashion > Women > Dresses
+Sizes: S, M, L, XL
+Bestseller: Yes
+---
+Name: 
+Description: Satin Midi Slip Dress
+Price: ₹2,299
+Category: Fashion > Women > Dresses
+Sizes: S, M, L, XL
+Bestseller: Yes
+---
+Name: 
+Description: Short Jersey Dress
+Price: ₹799
+Category: Fashion > Women > Dresses
+Sizes: S, M, L, XL
+Bestseller: Yes
+---
+Name: 
+Description: Off Shoulder Ruched Dress
+Price: ₹1,099
+Category: Fashion > Women > Dresses
+Sizes: S, M, L, XL
+Bestseller: Yes
+---
+Name: 
+Description: Ethnic Printed Flared Dress
+Price: ₹1,799
+Category: Fashion > Women > Dresses
+Sizes: S, M, L, XL
+Bestseller: Yes
+---
+Name: 
+Description: A-Line Striped Dress
+Price: ₹1,299
+Category: Fashion > Women > Dresses
+Sizes: S, M, L, XL
+Bestseller: Yes
+---
+Name: 
+Description: Embroidered Straight Dress
+Price: ₹1,599
+Category: Fashion > Women > Dresses
+Sizes: S, M, L, XL
+Bestseller: Yes
+---
+Name: 
+Description: Wrap Style Polka Dot Dress
+Price: ₹999
+Category: Fashion > Women > Dresses
+Sizes: S, M, L, XL
+Bestseller: Yes
+---

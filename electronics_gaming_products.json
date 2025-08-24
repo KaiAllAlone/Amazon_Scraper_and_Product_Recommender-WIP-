@@ -1,0 +1,1402 @@
+[
+  {
+    "id": "E001",
+    "title": "Zebronics Max Controller",
+    "price": 8817,
+    "category": "Electronics",
+    "brand": "Zebronics",
+    "rating": 4.0,
+    "features": [
+      "Voice Assistant",
+      "Smart Home Compatible",
+      "Compact"
+    ],
+    "availability": "Out of stock"
+  },
+  {
+    "id": "G001",
+    "title": "Logitech Max Controller",
+    "price": 4746,
+    "category": "Gaming",
+    "brand": "Logitech",
+    "rating": 4.5,
+    "features": [
+      "Compact",
+      "Cloth Surface",
+      "Non-slip Base"
+    ],
+    "availability": "In stock"
+  },
+  {
+    "id": "E002",
+    "title": "Dell X Power Bank",
+    "price": 931,
+    "category": "Electronics",
+    "brand": "Dell",
+    "rating": 4.0,
+    "features": [
+      "Bluetooth 5.0",
+      "Touch Controls",
+      "Water Resistant"
+    ],
+    "availability": "Limited stock"
+  },
+  {
+    "id": "G002",
+    "title": "Logitech Lite Smartwatch",
+    "price": 9307,
+    "category": "Gaming",
+    "brand": "Logitech",
+    "rating": 4.6,
+    "features": [
+      "7.1 Surround",
+      "Detachable Mic",
+      "Noise Isolation"
+    ],
+    "availability": "Limited stock"
+  },
+  {
+    "id": "E003",
+    "title": "Zebronics Elite Mouse",
+    "price": 3294,
+    "category": "Electronics",
+    "brand": "Zebronics",
+    "rating": 4.0,
+    "features": [
+      "Voice Assistant",
+      "Smart Home Compatible",
+      "Compact"
+    ],
+    "availability": "Out of stock"
+  },
+  {
+    "id": "G003",
+    "title": "Redgear X Keyboard",
+    "price": 9092,
+    "category": "Gaming",
+    "brand": "Redgear",
+    "rating": 4.5,
+    "features": [
+      "7.1 Surround",
+      "Detachable Mic",
+      "Noise Isolation"
+    ],
+    "availability": "Out of stock"
+  },
+  {
+    "id": "E004",
+    "title": "Amazon Pro Earbuds",
+    "price": 6020,
+    "category": "Electronics",
+    "brand": "Amazon",
+    "rating": 4.3,
+    "features": [
+      "HD Resolution",
+      "Built-in Mic",
+      "Plug & Play"
+    ],
+    "availability": "Limited stock"
+  },
+  {
+    "id": "G004",
+    "title": "Zebronics Max Mouse",
+    "price": 8235,
+    "category": "Gaming",
+    "brand": "Zebronics",
+    "rating": 3.8,
+    "features": [
+      "7.1 Surround",
+      "Detachable Mic",
+      "Noise Isolation"
+    ],
+    "availability": "In stock"
+  },
+  {
+    "id": "E005",
+    "title": "boAt Max Smartwatch",
+    "price": 8913,
+    "category": "Electronics",
+    "brand": "boAt",
+    "rating": 4.6,
+    "features": [
+      "Fast Charging",
+      "USB Type-C",
+      "LED Indicator"
+    ],
+    "availability": "Out of stock"
+  },
+  {
+    "id": "G005",
+    "title": "Zebronics Pro Gaming Pad",
+    "price": 5022,
+    "category": "Gaming",
+    "brand": "Zebronics",
+    "rating": 3.9,
+    "features": [
+      "Cooling Fan",
+      "USB Powered",
+      "Adjustable Height"
+    ],
+    "availability": "Out of stock"
+  },
+  {
+    "id": "E006",
+    "title": "Amazon Lite Earbuds",
+    "price": 8343,
+    "category": "Electronics",
+    "brand": "Amazon",
+    "rating": 4.1,
+    "features": [
+      "Wireless",
+      "Ergonomic",
+      "1600 DPI"
+    ],
+    "availability": "Limited stock"
+  },
+  {
+    "id": "G006",
+    "title": "Cosmic Byte X Earbuds",
+    "price": 4422,
+    "category": "Gaming",
+    "brand": "Cosmic Byte",
+    "rating": 4.5,
+    "features": [
+      "RGB Lighting",
+      "Macro Support",
+      "Mechanical Keys"
+    ],
+    "availability": "Out of stock"
+  },
+  {
+    "id": "E007",
+    "title": "boAt Max Controller",
+    "price": 1420,
+    "category": "Electronics",
+    "brand": "boAt",
+    "rating": 3.9,
+    "features": [
+      "Bluetooth 5.0",
+      "Touch Controls",
+      "Water Resistant"
+    ],
+    "availability": "Limited stock"
+  },
+  {
+    "id": "G007",
+    "title": "HP Lite Gaming Pad",
+    "price": 7964,
+    "category": "Gaming",
+    "brand": "HP",
+    "rating": 4.3,
+    "features": [
+      "RGB Lighting",
+      "Macro Support",
+      "Mechanical Keys"
+    ],
+    "availability": "In stock"
+  },
+  {
+    "id": "E008",
+    "title": "Logitech Elite Gaming Pad",
+    "price": 733,
+    "category": "Electronics",
+    "brand": "Logitech",
+    "rating": 3.9,
+    "features": [
+      "Bluetooth 5.0",
+      "Touch Controls",
+      "Water Resistant"
+    ],
+    "availability": "Limited stock"
+  },
+  {
+    "id": "G008",
+    "title": "Redgear Max Power Bank",
+    "price": 7177,
+    "category": "Gaming",
+    "brand": "Redgear",
+    "rating": 4.7,
+    "features": [
+      "7.1 Surround",
+      "Detachable Mic",
+      "Noise Isolation"
+    ],
+    "availability": "Limited stock"
+  },
+  {
+    "id": "E009",
+    "title": "boAt Pro Mouse",
+    "price": 9059,
+    "category": "Electronics",
+    "brand": "boAt",
+    "rating": 4.4,
+    "features": [
+      "Voice Assistant",
+      "Smart Home Compatible",
+      "Compact"
+    ],
+    "availability": "Out of stock"
+  },
+  {
+    "id": "G009",
+    "title": "Cooler Master Max Headphones",
+    "price": 1371,
+    "category": "Gaming",
+    "brand": "Cooler Master",
+    "rating": 4.5,
+    "features": [
+      "High DPI",
+      "Programmable Buttons",
+      "Lightweight"
+    ],
+    "availability": "Limited stock"
+  },
+  {
+    "id": "E010",
+    "title": "Amazon Lite Keyboard",
+    "price": 6367,
+    "category": "Electronics",
+    "brand": "Amazon",
+    "rating": 4.0,
+    "features": [
+      "HD Resolution",
+      "Built-in Mic",
+      "Plug & Play"
+    ],
+    "availability": "Limited stock"
+  },
+  {
+    "id": "G010",
+    "title": "Logitech Lite Controller",
+    "price": 8939,
+    "category": "Gaming",
+    "brand": "Logitech",
+    "rating": 4.5,
+    "features": [
+      "7.1 Surround",
+      "Detachable Mic",
+      "Noise Isolation"
+    ],
+    "availability": "In stock"
+  },
+  {
+    "id": "E011",
+    "title": "Logitech Lite Cabinet",
+    "price": 5655,
+    "category": "Electronics",
+    "brand": "Logitech",
+    "rating": 3.9,
+    "features": [
+      "HD Resolution",
+      "Built-in Mic",
+      "Plug & Play"
+    ],
+    "availability": "Out of stock"
+  },
+  {
+    "id": "G011",
+    "title": "Razer X Earbuds",
+    "price": 9351,
+    "category": "Gaming",
+    "brand": "Razer",
+    "rating": 4.1,
+    "features": [
+      "Cooling Fan",
+      "USB Powered",
+      "Adjustable Height"
+    ],
+    "availability": "In stock"
+  },
+  {
+    "id": "E012",
+    "title": "Sony Lite Headphones",
+    "price": 4779,
+    "category": "Electronics",
+    "brand": "Sony",
+    "rating": 4.4,
+    "features": [
+      "Fast Charging",
+      "USB Type-C",
+      "LED Indicator"
+    ],
+    "availability": "In stock"
+  },
+  {
+    "id": "G012",
+    "title": "HP Pro Headphones",
+    "price": 2937,
+    "category": "Gaming",
+    "brand": "HP",
+    "rating": 3.9,
+    "features": [
+      "High DPI",
+      "Programmable Buttons",
+      "Lightweight"
+    ],
+    "availability": "Limited stock"
+  },
+  {
+    "id": "E013",
+    "title": "Sony Elite Headphones",
+    "price": 775,
+    "category": "Electronics",
+    "brand": "Sony",
+    "rating": 4.6,
+    "features": [
+      "Fast Charging",
+      "USB Type-C",
+      "LED Indicator"
+    ],
+    "availability": "In stock"
+  },
+  {
+    "id": "G013",
+    "title": "Cosmic Byte Elite Cabinet",
+    "price": 2793,
+    "category": "Gaming",
+    "brand": "Cosmic Byte",
+    "rating": 3.9,
+    "features": [
+      "RGB Lighting",
+      "Macro Support",
+      "Mechanical Keys"
+    ],
+    "availability": "Out of stock"
+  },
+  {
+    "id": "E014",
+    "title": "Amazon Elite Earbuds",
+    "price": 3481,
+    "category": "Electronics",
+    "brand": "Amazon",
+    "rating": 4.5,
+    "features": [
+      "Fast Charging",
+      "USB Type-C",
+      "LED Indicator"
+    ],
+    "availability": "Limited stock"
+  },
+  {
+    "id": "G014",
+    "title": "Logitech Max Power Bank",
+    "price": 2696,
+    "category": "Gaming",
+    "brand": "Logitech",
+    "rating": 3.9,
+    "features": [
+      "7.1 Surround",
+      "Detachable Mic",
+      "Noise Isolation"
+    ],
+    "availability": "In stock"
+  },
+  {
+    "id": "E015",
+    "title": "Noise Pro Controller",
+    "price": 2936,
+    "category": "Electronics",
+    "brand": "Noise",
+    "rating": 4.0,
+    "features": [
+      "HD Resolution",
+      "Built-in Mic",
+      "Plug & Play"
+    ],
+    "availability": "Limited stock"
+  },
+  {
+    "id": "G015",
+    "title": "Logitech Elite Gaming Pad",
+    "price": 6117,
+    "category": "Gaming",
+    "brand": "Logitech",
+    "rating": 3.8,
+    "features": [
+      "7.1 Surround",
+      "Detachable Mic",
+      "Noise Isolation"
+    ],
+    "availability": "Out of stock"
+  },
+  {
+    "id": "E016",
+    "title": "Noise Elite Smartwatch",
+    "price": 4272,
+    "category": "Electronics",
+    "brand": "Noise",
+    "rating": 4.1,
+    "features": [
+      "Fast Charging",
+      "USB Type-C",
+      "LED Indicator"
+    ],
+    "availability": "Out of stock"
+  },
+  {
+    "id": "G016",
+    "title": "Zebronics Lite Headphones",
+    "price": 9039,
+    "category": "Gaming",
+    "brand": "Zebronics",
+    "rating": 4.6,
+    "features": [
+      "High DPI",
+      "Programmable Buttons",
+      "Lightweight"
+    ],
+    "availability": "In stock"
+  },
+  {
+    "id": "E017",
+    "title": "Xiaomi Elite Cabinet",
+    "price": 2687,
+    "category": "Electronics",
+    "brand": "Xiaomi",
+    "rating": 4.1,
+    "features": [
+      "Wireless",
+      "Ergonomic",
+      "1600 DPI"
+    ],
+    "availability": "Out of stock"
+  },
+  {
+    "id": "G017",
+    "title": "Cooler Master Pro Smartwatch",
+    "price": 6606,
+    "category": "Gaming",
+    "brand": "Cooler Master",
+    "rating": 4.7,
+    "features": [
+      "7.1 Surround",
+      "Detachable Mic",
+      "Noise Isolation"
+    ],
+    "availability": "Limited stock"
+  },
+  {
+    "id": "E018",
+    "title": "Xiaomi X Mouse",
+    "price": 4399,
+    "category": "Electronics",
+    "brand": "Xiaomi",
+    "rating": 3.8,
+    "features": [
+      "Fast Charging",
+      "USB Type-C",
+      "LED Indicator"
+    ],
+    "availability": "Out of stock"
+  },
+  {
+    "id": "G018",
+    "title": "SteelSeries Max Mouse",
+    "price": 6808,
+    "category": "Gaming",
+    "brand": "SteelSeries",
+    "rating": 3.9,
+    "features": [
+      "7.1 Surround",
+      "Detachable Mic",
+      "Noise Isolation"
+    ],
+    "availability": "In stock"
+  },
+  {
+    "id": "E019",
+    "title": "Realme Lite Controller",
+    "price": 7537,
+    "category": "Electronics",
+    "brand": "Realme",
+    "rating": 3.8,
+    "features": [
+      "Fast Charging",
+      "USB Type-C",
+      "LED Indicator"
+    ],
+    "availability": "Out of stock"
+  },
+  {
+    "id": "G019",
+    "title": "HP Lite Mouse",
+    "price": 4188,
+    "category": "Gaming",
+    "brand": "HP",
+    "rating": 3.9,
+    "features": [
+      "Compact",
+      "Cloth Surface",
+      "Non-slip Base"
+    ],
+    "availability": "In stock"
+  },
+  {
+    "id": "E020",
+    "title": "Logitech X Smartwatch",
+    "price": 2765,
+    "category": "Electronics",
+    "brand": "Logitech",
+    "rating": 4.6,
+    "features": [
+      "Voice Assistant",
+      "Smart Home Compatible",
+      "Compact"
+    ],
+    "availability": "In stock"
+  },
+  {
+    "id": "G020",
+    "title": "Ant Esports Lite Controller",
+    "price": 2907,
+    "category": "Gaming",
+    "brand": "Ant Esports",
+    "rating": 3.8,
+    "features": [
+      "7.1 Surround",
+      "Detachable Mic",
+      "Noise Isolation"
+    ],
+    "availability": "Limited stock"
+  },
+  {
+    "id": "E021",
+    "title": "boAt Lite Gaming Pad",
+    "price": 3472,
+    "category": "Electronics",
+    "brand": "boAt",
+    "rating": 3.9,
+    "features": [
+      "Voice Assistant",
+      "Smart Home Compatible",
+      "Compact"
+    ],
+    "availability": "Out of stock"
+  },
+  {
+    "id": "G021",
+    "title": "Cooler Master Elite Controller",
+    "price": 1989,
+    "category": "Gaming",
+    "brand": "Cooler Master",
+    "rating": 4.1,
+    "features": [
+      "Compact",
+      "Cloth Surface",
+      "Non-slip Base"
+    ],
+    "availability": "In stock"
+  },
+  {
+    "id": "E022",
+    "title": "Zebronics Pro Cabinet",
+    "price": 2202,
+    "category": "Electronics",
+    "brand": "Zebronics",
+    "rating": 4.5,
+    "features": [
+      "Fast Charging",
+      "USB Type-C",
+      "LED Indicator"
+    ],
+    "availability": "Limited stock"
+  },
+  {
+    "id": "G022",
+    "title": "Ant Esports Max Smartwatch",
+    "price": 5809,
+    "category": "Gaming",
+    "brand": "Ant Esports",
+    "rating": 4.4,
+    "features": [
+      "High DPI",
+      "Programmable Buttons",
+      "Lightweight"
+    ],
+    "availability": "Limited stock"
+  },
+  {
+    "id": "E023",
+    "title": "Samsung Elite Gaming Pad",
+    "price": 4147,
+    "category": "Electronics",
+    "brand": "Samsung",
+    "rating": 3.9,
+    "features": [
+      "Bluetooth 5.0",
+      "Touch Controls",
+      "Water Resistant"
+    ],
+    "availability": "In stock"
+  },
+  {
+    "id": "G023",
+    "title": "Redgear Elite Controller",
+    "price": 8345,
+    "category": "Gaming",
+    "brand": "Redgear",
+    "rating": 4.6,
+    "features": [
+      "Compact",
+      "Cloth Surface",
+      "Non-slip Base"
+    ],
+    "availability": "Limited stock"
+  },
+  {
+    "id": "E024",
+    "title": "Logitech Lite Gaming Pad",
+    "price": 1626,
+    "category": "Electronics",
+    "brand": "Logitech",
+    "rating": 4.6,
+    "features": [
+      "Wireless",
+      "Ergonomic",
+      "1600 DPI"
+    ],
+    "availability": "Out of stock"
+  },
+  {
+    "id": "G024",
+    "title": "Zebronics Pro Headphones",
+    "price": 7391,
+    "category": "Gaming",
+    "brand": "Zebronics",
+    "rating": 4.1,
+    "features": [
+      "RGB Lighting",
+      "Macro Support",
+      "Mechanical Keys"
+    ],
+    "availability": "In stock"
+  },
+  {
+    "id": "E025",
+    "title": "Realme X Smartwatch",
+    "price": 5942,
+    "category": "Electronics",
+    "brand": "Realme",
+    "rating": 4.5,
+    "features": [
+      "Voice Assistant",
+      "Smart Home Compatible",
+      "Compact"
+    ],
+    "availability": "Out of stock"
+  },
+  {
+    "id": "G025",
+    "title": "Zebronics Lite Mouse",
+    "price": 5536,
+    "category": "Gaming",
+    "brand": "Zebronics",
+    "rating": 4.2,
+    "features": [
+      "Compact",
+      "Cloth Surface",
+      "Non-slip Base"
+    ],
+    "availability": "Out of stock"
+  },
+  {
+    "id": "E026",
+    "title": "Amazon Elite Cabinet",
+    "price": 2826,
+    "category": "Electronics",
+    "brand": "Amazon",
+    "rating": 4.7,
+    "features": [
+      "Wireless",
+      "Ergonomic",
+      "1600 DPI"
+    ],
+    "availability": "In stock"
+  },
+  {
+    "id": "G026",
+    "title": "HyperX Max Cabinet",
+    "price": 1391,
+    "category": "Gaming",
+    "brand": "HyperX",
+    "rating": 4.3,
+    "features": [
+      "Cooling Fan",
+      "USB Powered",
+      "Adjustable Height"
+    ],
+    "availability": "Limited stock"
+  },
+  {
+    "id": "E027",
+    "title": "Xiaomi Pro Cabinet",
+    "price": 8017,
+    "category": "Electronics",
+    "brand": "Xiaomi",
+    "rating": 4.3,
+    "features": [
+      "Voice Assistant",
+      "Smart Home Compatible",
+      "Compact"
+    ],
+    "availability": "Limited stock"
+  },
+  {
+    "id": "G027",
+    "title": "Zebronics X Power Bank",
+    "price": 1096,
+    "category": "Gaming",
+    "brand": "Zebronics",
+    "rating": 3.8,
+    "features": [
+      "7.1 Surround",
+      "Detachable Mic",
+      "Noise Isolation"
+    ],
+    "availability": "In stock"
+  },
+  {
+    "id": "E028",
+    "title": "Zebronics Pro Headphones",
+    "price": 6056,
+    "category": "Electronics",
+    "brand": "Zebronics",
+    "rating": 4.7,
+    "features": [
+      "Voice Assistant",
+      "Smart Home Compatible",
+      "Compact"
+    ],
+    "availability": "Out of stock"
+  },
+  {
+    "id": "G028",
+    "title": "HP X Keyboard",
+    "price": 9772,
+    "category": "Gaming",
+    "brand": "HP",
+    "rating": 4.5,
+    "features": [
+      "High DPI",
+      "Programmable Buttons",
+      "Lightweight"
+    ],
+    "availability": "In stock"
+  },
+  {
+    "id": "E029",
+    "title": "Xiaomi X Mouse",
+    "price": 3749,
+    "category": "Electronics",
+    "brand": "Xiaomi",
+    "rating": 4.6,
+    "features": [
+      "Fast Charging",
+      "USB Type-C",
+      "LED Indicator"
+    ],
+    "availability": "Out of stock"
+  },
+  {
+    "id": "G029",
+    "title": "Zebronics X Gaming Pad",
+    "price": 4146,
+    "category": "Gaming",
+    "brand": "Zebronics",
+    "rating": 3.9,
+    "features": [
+      "High DPI",
+      "Programmable Buttons",
+      "Lightweight"
+    ],
+    "availability": "Limited stock"
+  },
+  {
+    "id": "E030",
+    "title": "Xiaomi X Power Bank",
+    "price": 699,
+    "category": "Electronics",
+    "brand": "Xiaomi",
+    "rating": 4.2,
+    "features": [
+      "Fast Charging",
+      "USB Type-C",
+      "LED Indicator"
+    ],
+    "availability": "Limited stock"
+  },
+  {
+    "id": "G030",
+    "title": "Redgear Pro Keyboard",
+    "price": 4367,
+    "category": "Gaming",
+    "brand": "Redgear",
+    "rating": 3.8,
+    "features": [
+      "RGB Lighting",
+      "Macro Support",
+      "Mechanical Keys"
+    ],
+    "availability": "Out of stock"
+  },
+  {
+    "id": "E031",
+    "title": "Xiaomi Pro Power Bank",
+    "price": 9126,
+    "category": "Electronics",
+    "brand": "Xiaomi",
+    "rating": 3.9,
+    "features": [
+      "Bluetooth 5.0",
+      "Touch Controls",
+      "Water Resistant"
+    ],
+    "availability": "Limited stock"
+  },
+  {
+    "id": "G031",
+    "title": "HyperX Max Smartwatch",
+    "price": 7765,
+    "category": "Gaming",
+    "brand": "HyperX",
+    "rating": 4.5,
+    "features": [
+      "RGB Lighting",
+      "Macro Support",
+      "Mechanical Keys"
+    ],
+    "availability": "Limited stock"
+  },
+  {
+    "id": "E032",
+    "title": "Zebronics X Earbuds",
+    "price": 5680,
+    "category": "Electronics",
+    "brand": "Zebronics",
+    "rating": 3.9,
+    "features": [
+      "Fast Charging",
+      "USB Type-C",
+      "LED Indicator"
+    ],
+    "availability": "In stock"
+  },
+  {
+    "id": "G032",
+    "title": "SteelSeries Lite Keyboard",
+    "price": 9815,
+    "category": "Gaming",
+    "brand": "SteelSeries",
+    "rating": 4.6,
+    "features": [
+      "Compact",
+      "Cloth Surface",
+      "Non-slip Base"
+    ],
+    "availability": "Out of stock"
+  },
+  {
+    "id": "E033",
+    "title": "Noise Max Earbuds",
+    "price": 8620,
+    "category": "Electronics",
+    "brand": "Noise",
+    "rating": 4.3,
+    "features": [
+      "Bluetooth 5.0",
+      "Touch Controls",
+      "Water Resistant"
+    ],
+    "availability": "Out of stock"
+  },
+  {
+    "id": "G033",
+    "title": "Zebronics Max Controller",
+    "price": 3001,
+    "category": "Gaming",
+    "brand": "Zebronics",
+    "rating": 4.1,
+    "features": [
+      "High DPI",
+      "Programmable Buttons",
+      "Lightweight"
+    ],
+    "availability": "Limited stock"
+  },
+  {
+    "id": "E034",
+    "title": "Xiaomi Elite Mouse",
+    "price": 881,
+    "category": "Electronics",
+    "brand": "Xiaomi",
+    "rating": 4.6,
+    "features": [
+      "Voice Assistant",
+      "Smart Home Compatible",
+      "Compact"
+    ],
+    "availability": "In stock"
+  },
+  {
+    "id": "G034",
+    "title": "Cooler Master X Power Bank",
+    "price": 9236,
+    "category": "Gaming",
+    "brand": "Cooler Master",
+    "rating": 4.3,
+    "features": [
+      "Cooling Fan",
+      "USB Powered",
+      "Adjustable Height"
+    ],
+    "availability": "Out of stock"
+  },
+  {
+    "id": "E035",
+    "title": "Noise Lite Smartwatch",
+    "price": 3307,
+    "category": "Electronics",
+    "brand": "Noise",
+    "rating": 4.4,
+    "features": [
+      "Fast Charging",
+      "USB Type-C",
+      "LED Indicator"
+    ],
+    "availability": "Out of stock"
+  },
+  {
+    "id": "G035",
+    "title": "Zebronics Pro Controller",
+    "price": 4314,
+    "category": "Gaming",
+    "brand": "Zebronics",
+    "rating": 4.2,
+    "features": [
+      "High DPI",
+      "Programmable Buttons",
+      "Lightweight"
+    ],
+    "availability": "Out of stock"
+  },
+  {
+    "id": "E036",
+    "title": "Noise Lite Gaming Pad",
+    "price": 4919,
+    "category": "Electronics",
+    "brand": "Noise",
+    "rating": 4.4,
+    "features": [
+      "Voice Assistant",
+      "Smart Home Compatible",
+      "Compact"
+    ],
+    "availability": "In stock"
+  },
+  {
+    "id": "G036",
+    "title": "Redgear Lite Power Bank",
+    "price": 2689,
+    "category": "Gaming",
+    "brand": "Redgear",
+    "rating": 3.9,
+    "features": [
+      "Compact",
+      "Cloth Surface",
+      "Non-slip Base"
+    ],
+    "availability": "In stock"
+  },
+  {
+    "id": "E037",
+    "title": "Xiaomi X Controller",
+    "price": 8615,
+    "category": "Electronics",
+    "brand": "Xiaomi",
+    "rating": 4.3,
+    "features": [
+      "Voice Assistant",
+      "Smart Home Compatible",
+      "Compact"
+    ],
+    "availability": "Out of stock"
+  },
+  {
+    "id": "G037",
+    "title": "Cooler Master Max Headphones",
+    "price": 8790,
+    "category": "Gaming",
+    "brand": "Cooler Master",
+    "rating": 3.8,
+    "features": [
+      "RGB Lighting",
+      "Macro Support",
+      "Mechanical Keys"
+    ],
+    "availability": "Out of stock"
+  },
+  {
+    "id": "E038",
+    "title": "boAt Pro Power Bank",
+    "price": 5531,
+    "category": "Electronics",
+    "brand": "boAt",
+    "rating": 4.4,
+    "features": [
+      "HD Resolution",
+      "Built-in Mic",
+      "Plug & Play"
+    ],
+    "availability": "Limited stock"
+  },
+  {
+    "id": "G038",
+    "title": "Razer Lite Power Bank",
+    "price": 1173,
+    "category": "Gaming",
+    "brand": "Razer",
+    "rating": 4.7,
+    "features": [
+      "7.1 Surround",
+      "Detachable Mic",
+      "Noise Isolation"
+    ],
+    "availability": "Limited stock"
+  },
+  {
+    "id": "E039",
+    "title": "Amazon Max Controller",
+    "price": 9763,
+    "category": "Electronics",
+    "brand": "Amazon",
+    "rating": 4.4,
+    "features": [
+      "Fast Charging",
+      "USB Type-C",
+      "LED Indicator"
+    ],
+    "availability": "Out of stock"
+  },
+  {
+    "id": "G039",
+    "title": "Razer Max Mouse",
+    "price": 7206,
+    "category": "Gaming",
+    "brand": "Razer",
+    "rating": 4.1,
+    "features": [
+      "High DPI",
+      "Programmable Buttons",
+      "Lightweight"
+    ],
+    "availability": "Out of stock"
+  },
+  {
+    "id": "E040",
+    "title": "Amazon X Earbuds",
+    "price": 9479,
+    "category": "Electronics",
+    "brand": "Amazon",
+    "rating": 4.4,
+    "features": [
+      "Voice Assistant",
+      "Smart Home Compatible",
+      "Compact"
+    ],
+    "availability": "Out of stock"
+  },
+  {
+    "id": "G040",
+    "title": "Ant Esports X Headphones",
+    "price": 4903,
+    "category": "Gaming",
+    "brand": "Ant Esports",
+    "rating": 3.8,
+    "features": [
+      "RGB Lighting",
+      "Macro Support",
+      "Mechanical Keys"
+    ],
+    "availability": "Out of stock"
+  },
+  {
+    "id": "E041",
+    "title": "Logitech Elite Controller",
+    "price": 3659,
+    "category": "Electronics",
+    "brand": "Logitech",
+    "rating": 3.9,
+    "features": [
+      "Voice Assistant",
+      "Smart Home Compatible",
+      "Compact"
+    ],
+    "availability": "Limited stock"
+  },
+  {
+    "id": "G041",
+    "title": "Cosmic Byte X Smartwatch",
+    "price": 2309,
+    "category": "Gaming",
+    "brand": "Cosmic Byte",
+    "rating": 4.5,
+    "features": [
+      "High DPI",
+      "Programmable Buttons",
+      "Lightweight"
+    ],
+    "availability": "Limited stock"
+  },
+  {
+    "id": "E042",
+    "title": "Zebronics Max Earbuds",
+    "price": 9566,
+    "category": "Electronics",
+    "brand": "Zebronics",
+    "rating": 4.0,
+    "features": [
+      "Wireless",
+      "Ergonomic",
+      "1600 DPI"
+    ],
+    "availability": "Limited stock"
+  },
+  {
+    "id": "G042",
+    "title": "Zebronics Lite Cabinet",
+    "price": 7177,
+    "category": "Gaming",
+    "brand": "Zebronics",
+    "rating": 4.3,
+    "features": [
+      "High DPI",
+      "Programmable Buttons",
+      "Lightweight"
+    ],
+    "availability": "Limited stock"
+  },
+  {
+    "id": "E043",
+    "title": "Sony Elite Headphones",
+    "price": 7660,
+    "category": "Electronics",
+    "brand": "Sony",
+    "rating": 3.8,
+    "features": [
+      "Wireless",
+      "Ergonomic",
+      "1600 DPI"
+    ],
+    "availability": "Limited stock"
+  },
+  {
+    "id": "G043",
+    "title": "Cooler Master Lite Earbuds",
+    "price": 7691,
+    "category": "Gaming",
+    "brand": "Cooler Master",
+    "rating": 3.9,
+    "features": [
+      "RGB Lighting",
+      "Macro Support",
+      "Mechanical Keys"
+    ],
+    "availability": "Limited stock"
+  },
+  {
+    "id": "E044",
+    "title": "Noise Lite Keyboard",
+    "price": 3581,
+    "category": "Electronics",
+    "brand": "Noise",
+    "rating": 4.6,
+    "features": [
+      "Bluetooth 5.0",
+      "Touch Controls",
+      "Water Resistant"
+    ],
+    "availability": "Out of stock"
+  },
+  {
+    "id": "G044",
+    "title": "Ant Esports Elite Earbuds",
+    "price": 1215,
+    "category": "Gaming",
+    "brand": "Ant Esports",
+    "rating": 4.4,
+    "features": [
+      "Compact",
+      "Cloth Surface",
+      "Non-slip Base"
+    ],
+    "availability": "Limited stock"
+  },
+  {
+    "id": "E045",
+    "title": "Samsung Max Mouse",
+    "price": 3003,
+    "category": "Electronics",
+    "brand": "Samsung",
+    "rating": 4.5,
+    "features": [
+      "Wireless",
+      "Ergonomic",
+      "1600 DPI"
+    ],
+    "availability": "Limited stock"
+  },
+  {
+    "id": "G045",
+    "title": "HyperX X Headphones",
+    "price": 4537,
+    "category": "Gaming",
+    "brand": "HyperX",
+    "rating": 4.5,
+    "features": [
+      "RGB Lighting",
+      "Macro Support",
+      "Mechanical Keys"
+    ],
+    "availability": "In stock"
+  },
+  {
+    "id": "E046",
+    "title": "Dell X Earbuds",
+    "price": 7094,
+    "category": "Electronics",
+    "brand": "Dell",
+    "rating": 4.4,
+    "features": [
+      "Wireless",
+      "Ergonomic",
+      "1600 DPI"
+    ],
+    "availability": "Limited stock"
+  },
+  {
+    "id": "G046",
+    "title": "Zebronics Elite Keyboard",
+    "price": 7615,
+    "category": "Gaming",
+    "brand": "Zebronics",
+    "rating": 4.3,
+    "features": [
+      "7.1 Surround",
+      "Detachable Mic",
+      "Noise Isolation"
+    ],
+    "availability": "Out of stock"
+  },
+  {
+    "id": "E047",
+    "title": "Dell Lite Headphones",
+    "price": 7874,
+    "category": "Electronics",
+    "brand": "Dell",
+    "rating": 4.5,
+    "features": [
+      "Bluetooth 5.0",
+      "Touch Controls",
+      "Water Resistant"
+    ],
+    "availability": "In stock"
+  },
+  {
+    "id": "G047",
+    "title": "SteelSeries Pro Earbuds",
+    "price": 8268,
+    "category": "Gaming",
+    "brand": "SteelSeries",
+    "rating": 4.7,
+    "features": [
+      "Compact",
+      "Cloth Surface",
+      "Non-slip Base"
+    ],
+    "availability": "Limited stock"
+  },
+  {
+    "id": "E048",
+    "title": "Amazon Max Smartwatch",
+    "price": 6264,
+    "category": "Electronics",
+    "brand": "Amazon",
+    "rating": 4.7,
+    "features": [
+      "Fast Charging",
+      "USB Type-C",
+      "LED Indicator"
+    ],
+    "availability": "In stock"
+  },
+  {
+    "id": "G048",
+    "title": "HyperX X Keyboard",
+    "price": 1893,
+    "category": "Gaming",
+    "brand": "HyperX",
+    "rating": 4.4,
+    "features": [
+      "RGB Lighting",
+      "Macro Support",
+      "Mechanical Keys"
+    ],
+    "availability": "Out of stock"
+  },
+  {
+    "id": "E049",
+    "title": "Zebronics Lite Gaming Pad",
+    "price": 9071,
+    "category": "Electronics",
+    "brand": "Zebronics",
+    "rating": 4.1,
+    "features": [
+      "HD Resolution",
+      "Built-in Mic",
+      "Plug & Play"
+    ],
+    "availability": "Limited stock"
+  },
+  {
+    "id": "G049",
+    "title": "Logitech Pro Smartwatch",
+    "price": 909,
+    "category": "Gaming",
+    "brand": "Logitech",
+    "rating": 4.2,
+    "features": [
+      "Cooling Fan",
+      "USB Powered",
+      "Adjustable Height"
+    ],
+    "availability": "In stock"
+  },
+  {
+    "id": "E050",
+    "title": "Sony Pro Mouse",
+    "price": 9196,
+    "category": "Electronics",
+    "brand": "Sony",
+    "rating": 4.3,
+    "features": [
+      "HD Resolution",
+      "Built-in Mic",
+      "Plug & Play"
+    ],
+    "availability": "Limited stock"
+  },
+  {
+    "id": "G050",
+    "title": "HyperX Elite Power Bank",
+    "price": 3773,
+    "category": "Gaming",
+    "brand": "HyperX",
+    "rating": 4.1,
+    "features": [
+      "High DPI",
+      "Programmable Buttons",
+      "Lightweight"
+    ],
+    "availability": "Out of stock"
+  }
+]
