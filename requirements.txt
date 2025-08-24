@@ -1,0 +1,12 @@
+flask
+asyncio
+python-dotenv
+selenium
+serpapi
+langchain
+langchain-openai
+langchain-community
+sentence-transformers
+numpy
+tqdm
+jsonschema
